@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "784f1709-a9b2-4788-b292-a4fd1117e725",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:730335384673:service/test/pipeline",
     "templateArn" : "arn:aws:proton:eu-west-2:730335384673:service-template/load-balanced-ecs-ec2-svc",
